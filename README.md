@@ -1,9 +1,11 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 style="text-align: center;">Hi <span class="wave">👋</span>, I'm Yasiru Kaveeshwara</h1>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Yasiru Kaveeshwara</h1>
 
 <h3 align="center">Enthusiastic IT Student | Exploring in Knowledge of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasirukaveeshwara&label=Profile%20views&color=0e75b6&style=flat" alt="yasirukaveeshwara" /> </p>
+
 <hr>
 
 - 🎓 I’m an Undergraduate at **SLIIT**
@@ -16,14 +18,7 @@
 
 - 🌱 Fun fact 😉 My Gaming name is **Shadow Warrior**
 
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-    <a href="https://facebook.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-    <a href="https://twitter.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-    <a href="https://linkedin.com/in/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-    <a href="https://instagram.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
-</p>
+<hr>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -37,23 +32,12 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
-```css
-.wave {
-    animation-name: wave-animation;  
-    animation-duration: 2.5s;       
-    animation-iteration-count: infinite; 
-    transform-origin: 70% 70%;     
-    display: inline-block;
-}
+<h3 align="left">Connect with me:</h3>
 
-@keyframes wave-animation {
-    0% { transform: rotate( 0.0deg) }
-    10% { transform: rotate(14.0deg) }  
-    20% { transform: rotate(-8.0deg) }
-    30% { transform: rotate(14.0deg) }
-    40% { transform: rotate(-4.0deg) }
-    50% { transform: rotate(10.0deg) }
-    60% { transform: rotate( 0.0deg) } 
-    100% { transform: rotate( 0.0deg) }
-}
+<p align="left">
+    <a href="https://facebook.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://twitter.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+    <a href="https://instagram.com/kaveeshwaray" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gautamkrishnar" height="30" width="40" /></a>
+</p>
 
