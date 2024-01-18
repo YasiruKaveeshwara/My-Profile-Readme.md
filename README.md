@@ -8,7 +8,7 @@
 
 <hr>
 
-- 🎓 I’m an Undergraduate at **SLIIT**
+- 🎓 I’m an Undergraduate at **SLIIT - BSc (Hons) in Information Technology**
 
 - 🔭 I’m currently learning **MERN**
 
