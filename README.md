@@ -1,18 +1,6 @@
 <p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
-<h1 style="text-align: center;">Hi <span style="display: inline-block; animation-name: wave-animation; animation-duration: 2.5s; animation-iteration-count: infinite; transform-origin: 70% 70%;">👋</span>, I'm Yasiru Kaveeshwara</h1>
+<h1 style="text-align: center;">Hi <span class="wave">👋</span>, I'm Yasiru Kaveeshwara</h1>
 
-<style>
-  @keyframes wave-animation {
-    0% { transform: rotate(0.0deg); }
-    10% { transform: rotate(14.0deg); }  
-    20% { transform: rotate(-8.0deg); }
-    30% { transform: rotate(14.0deg); }
-    40% { transform: rotate(-4.0deg); }
-    50% { transform: rotate(10.0deg); }
-    60% { transform: rotate(0.0deg); } 
-    100% { transform: rotate(0.0deg); }
-  }
-</style>
 <h3 align="center">Enthusiastic IT Student | Exploring in Knowledge of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=yasirukaveeshwara&label=Profile%20views&color=0e75b6&style=flat" alt="yasirukaveeshwara" /> </p>
@@ -49,5 +37,23 @@
     <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
 </p>
 
+```css
+.wave {
+    animation-name: wave-animation;  
+    animation-duration: 2.5s;       
+    animation-iteration-count: infinite; 
+    transform-origin: 70% 70%;     
+    display: inline-block;
+}
 
+@keyframes wave-animation {
+    0% { transform: rotate( 0.0deg) }
+    10% { transform: rotate(14.0deg) }  
+    20% { transform: rotate(-8.0deg) }
+    30% { transform: rotate(14.0deg) }
+    40% { transform: rotate(-4.0deg) }
+    50% { transform: rotate(10.0deg) }
+    60% { transform: rotate( 0.0deg) } 
+    100% { transform: rotate( 0.0deg) }
+}
 
