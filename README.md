@@ -12,9 +12,7 @@
 
 - 🔭 I’m currently learning **MERN**
 
-- 📝 I write articles on [medium.com/@kaveeshwaray](medium.com/@kaveeshwaray)
-
-- - 📝 I write articles on (https://medium.com/@kaveeshwaray)
+- 📝 I write articles on <a href="https://medium.com/@kaveeshwaray">**medium.com/@kaveeshwaray**<a>
 
 - 📫 Reach me **kaveeshwaray@gmail.com**
 
