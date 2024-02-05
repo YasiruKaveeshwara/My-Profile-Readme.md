@@ -14,6 +14,8 @@
 
 - 📝 I write articles on [medium.com/@kaveeshwaray](medium.com/@kaveeshwaray)
 
+- - 📝 I write articles on (https://medium.com/@kaveeshwaray)
+
 - 📫 Reach me **kaveeshwaray@gmail.com**
 
 - 🌱 Fun fact 😉 My Gaming name is **Shadow Warrior**
