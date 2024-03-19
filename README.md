@@ -4,7 +4,7 @@
 
 <h3 align="center">Enthusiastic IT Student | Exploring in Knowledge of Technology</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yasirukaveeshwara&label=Profile%20views&color=0e75b6&style=flat" alt="yasirukaveeshwara" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=YasiruKaveeshwara&label=Profile%20views&color=brightgreen&style=flat-square" alt="YasiruKaveeshwara" /> </p>
 
 <hr>
 
