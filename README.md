@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">, I'm Yasiru Kaveeshwara</h1>
 
-<h3 align="center">Enthusiastic IT Student | Exploring in Knowledge of Technology</h3>
+<h3 align="center">Enthusiastic Software Engineering Student | Exploring in Knowledge of Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=YasiruKaveeshwara&label=Profile%20views&color=brightgreen&style=flat-square" alt="YasiruKaveeshwara" /> </p>
 
 <hr>
 
-- 🎓 I’m an Undergraduate at **SLIIT - BSc (Hons) in Information Technology**
+- 🎓 I’m an Undergraduate at **SLIIT - BSc (Hons) in Information Technology Specializing in Software Engineering**
 
 - 🔭 I’m currently learning **MERN**
 
